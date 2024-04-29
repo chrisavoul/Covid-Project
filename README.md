@@ -35,10 +35,3 @@ Below are some of the SQL queries used in this project:
 2. Open the provided Jupyter notebooks containing the SQL queries.
 3. Execute the queries in the notebooks to analyze the COVID-19 data and explore the trends.
 
-## Contributors
-
-- [Your Name/Organization] - [Your Contact Information]
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
