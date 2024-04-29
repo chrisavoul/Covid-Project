@@ -35,3 +35,17 @@ Below are some of the SQL queries used in this project:
 2. Open the provided Jupyter notebooks containing the SQL queries.
 3. Execute the queries in the notebooks to analyze the COVID-19 data and explore the trends.
 
+## Dashboard Screenshot
+![Covid Global Dashboard](https://github.com/chrisavoul/Covid-Project/blob/main/Screenshot%202024-04-29%20195645.png?raw=true)
+
+The dashboard provides a comprehensive visualization of COVID-19 data through four distinct sheets:
+
+1. **Global COVID-19 Statistics**: This sheet presents a table detailing the global number of COVID-19 cases, deaths, and the corresponding death percentage.
+
+2. **Death Counts by Continent**: A bar chart illustrates the distribution of death counts per continent, offering insights into regional variations.
+
+3. **Infection Percentage by Country**: The filled map visually represents each country's percentage of infection, allowing for a quick understanding of the spread across different regions.
+
+4. **Chronological Infection Trends**: This dynamic visualization traces the average number of infections over time in select countries including the United States, United Kingdom, Mexico, China, India, and Greece, providing insights into the progression of the pandemic.
+
+The dashboard offers a comprehensive overview of COVID-19 trends, facilitating informed decision-making and analysis.
